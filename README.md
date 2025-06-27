@@ -1,4 +1,4 @@
 # Music-Store-Analysis
-author-jayant bhoyar
+author-jayant (apna collegegit statusg)
 <br>
 this is my first repository
